@@ -56,6 +56,47 @@ const DUMMY_MEALS = [
       "Shrimps in spicy thick coconut milk, red curry, and peanut sauce topped with chilli.",
     price: 15.75,
   },
+  {
+    id: "m9",
+    name: "Panang Beef",
+    description:
+      "Sliced beef in spicy thick coconut milk, red curry, basil leaves, and peanut sauce.",
+    price: 14.95,
+  },
+  {
+    id: "m10",
+    name: "Red Veggie Curry",
+    description:
+      "Vegetables (mix) in Thai red curry with coconut milk, tofu and basil leaves.",
+    price: 13.65,
+  },
+  {
+    id: "m11",
+    name: "Chicken Satay",
+    description:
+      "Four skewers. Grilled sliced marinated chicken breast and served with peanut sauce.",
+    price: 10.75,
+  },
+  {
+    id: "m12",
+    name: "Deep Fried Tofu with Rice",
+    description: "Deep fried tofu served with Thai cucumber salad..",
+    price: 17.75,
+  },
+  {
+    id: "m13",
+    name: "Spring Rolls veggie",
+    description:
+      "Four pieces. Cabbage, carrots, glass noodles, and mushrooms. Served with sweet and sour sauce. .",
+    price: 6.35,
+  },
+  {
+    id: "m13",
+    name: "Veggie Fresh Rolls ",
+    description:
+      "hree pieces. Cabbage, carrot coleslaw, tofu, and mint leaves roll in a rice wrapper, served with peanut sauce.",
+    price: 6.35,
+  },
 ];
 const AvailableMeals = () => {
   const mealsList = DUMMY_MEALS.map((meal) => (
