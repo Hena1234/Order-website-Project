@@ -4,6 +4,11 @@
   padding: 0;
   max-height: 20rem;
   overflow: auto;
+  color: black;
+  font-family: Arial, sans-serif; /* Specify the font family */
+  font-size: 20px; /* Specify the font size */
+  font-weight: normal; /* Specify the font weight */
+  /* Add any other font properties as needed */
 }
 
 .total {
@@ -13,6 +18,7 @@
   font-weight: bold;
   font-size: 1.5rem;
   margin: 1rem 0;
+  color: black; /* 검정색으로 설정 */
 }
 
 .actions {

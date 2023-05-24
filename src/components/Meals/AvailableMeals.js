@@ -91,10 +91,10 @@ const DUMMY_MEALS = [
     price: 6.35,
   },
   {
-    id: "m13",
+    id: "m14",
     name: "Veggie Fresh Rolls ",
     description:
-      "hree pieces. Cabbage, carrot coleslaw, tofu, and mint leaves roll in a rice wrapper, served with peanut sauce.",
+      "three pieces. Cabbage, carrot coleslaw, tofu, and mint leaves roll in a rice wrapper, served with peanut sauce.",
     price: 6.35,
   },
 ];
