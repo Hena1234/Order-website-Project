@@ -3,10 +3,10 @@
   margin: 0;
   padding: 0;
   max-height: 20rem;
-  overflow: auto;
+  overflow: scroll;
   color: black;
   font-family: Arial, sans-serif; /* Specify the font family */
-  font-size: 20px; /* Specify the font size */
+  font-size: 16px; /* Specify the font size */
   font-weight: normal; /* Specify the font weight */
   /* Add any other font properties as needed */
 }
